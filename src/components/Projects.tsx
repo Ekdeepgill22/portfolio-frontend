@@ -17,7 +17,7 @@ const Projects = () => {
       tech: ['Python', 'Flask', 'Pandas', 'Scikit-Learn', 'Tailwind CSS', 'SERP API'],
       icon: <Shield className="h-8 w-8" />,
       gradient: 'from-blue-500 to-indigo-600',
-      demoUrl: '#',
+      demoUrl: 'https://news-shield.onrender.com',
       githubUrl: 'https://github.com/Ekdeepgill22/News_Shield',
       uiImage: `${backendUrl}/static/ui/NewsShield_ui.jpg`,
     },
